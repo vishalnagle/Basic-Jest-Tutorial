@@ -1,0 +1,19 @@
+Tutorial url: https://www.youtube.com/watch?v=IPiUDhwnZxA&t=45s
+
+1.Setting Up Jest
+
+2.Matchers
+
+toBe(),toEqual(),toBeFalsy(),toBeTruthy(),toThrow()
+
+3.Testing Asynchronous Code
+
+callbacks,promises,async await
+
+4.Mock functions and spies
+
+jest.fn(), spy on
+
+TO RUN THE TESTS USE "npm test" COMMAND
+
+
